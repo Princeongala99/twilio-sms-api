@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: twilio-sms-api
+    env: php
+    plan: free
+    rootDir: public
